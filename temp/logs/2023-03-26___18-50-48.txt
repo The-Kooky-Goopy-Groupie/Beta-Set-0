@@ -1,0 +1,36 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.31f1 (bd5abf232a62)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24e0)
+    Vendor:   
+    VRAM:     8032 MB
+    Driver:   31.0.15.2754
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.062 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.845600 ms
+OS: x64, App: x64 2.15.10, CPU Logical Cores: 20, RAM: 31.68 GB
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 5.725500 ms (FindLiveObjects: 0.696900 ms CreateObjectMapping: 0.280500 ms MarkObjects: 4.729100 ms  DeleteObjects: 0.018400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 5.296900 ms (FindLiveObjects: 0.538000 ms CreateObjectMapping: 0.246700 ms MarkObjects: 4.502500 ms  DeleteObjects: 0.009300 ms)
+
+Error: Font family not found: Power Red and Green
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.08s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Resized image (RGB24): 4000x3000 -> 2048x1536 (0.09s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)

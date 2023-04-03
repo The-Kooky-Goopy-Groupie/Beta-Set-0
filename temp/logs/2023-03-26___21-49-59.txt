@@ -1,0 +1,97 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.31f1 (bd5abf232a62)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24e0)
+    Vendor:   
+    VRAM:     8032 MB
+    Driver:   31.0.15.2754
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.058 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.661000 ms
+OS: x64, App: x64 2.15.10, CPU Logical Cores: 20, RAM: 31.68 GB
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.580000 ms (FindLiveObjects: 0.382000 ms CreateObjectMapping: 0.167500 ms MarkObjects: 4.011900 ms  DeleteObjects: 0.018200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.281700 ms (FindLiveObjects: 0.363400 ms CreateObjectMapping: 0.158300 ms MarkObjects: 3.751000 ms  DeleteObjects: 0.008700 ms)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 15356.
+Total: 8.956900 ms (FindLiveObjects: 0.616100 ms CreateObjectMapping: 0.270500 ms MarkObjects: 8.042700 ms  DeleteObjects: 0.027300 ms)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/imagesC\images\Temp Arts\test)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/imagesC\images\Temp Arts\test)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\test
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 15866.
+Total: 11.308600 ms (FindLiveObjects: 0.604000 ms CreateObjectMapping: 0.233600 ms MarkObjects: 10.425900 ms  DeleteObjects: 0.044600 ms)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/imagesC\images\Temp Arts\Test)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 15868.
+Total: 10.666200 ms (FindLiveObjects: 0.580600 ms CreateObjectMapping: 0.202200 ms MarkObjects: 9.841200 ms  DeleteObjects: 0.041900 ms)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/imagesC\images\Temp Arts\Test)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 16094.
+Total: 10.923100 ms (FindLiveObjects: 0.578000 ms CreateObjectMapping: 0.216800 ms MarkObjects: 10.085600 ms  DeleteObjects: 0.042400 ms)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/imagesC\images\Temp Arts\Test)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 16990.
+Total: 10.983500 ms (FindLiveObjects: 0.587600 ms CreateObjectMapping: 0.219600 ms MarkObjects: 10.121600 ms  DeleteObjects: 0.054100 ms)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/imagesC\images\Temp Arts\Test)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Error: HTTP/1.1 404 Not Found -> %PROJECT%C\images\Temp Arts\Test
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 17500.
+Total: 13.696900 ms (FindLiveObjects: 0.600400 ms CreateObjectMapping: 0.209500 ms MarkObjects: 12.843000 ms  DeleteObjects: 0.043600 ms)
+

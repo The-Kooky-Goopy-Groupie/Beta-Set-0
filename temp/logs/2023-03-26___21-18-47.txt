@@ -1,0 +1,369 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.31f1 (bd5abf232a62)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24e0)
+    Vendor:   
+    VRAM:     8032 MB
+    Driver:   31.0.15.2754
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.061 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.696900 ms
+OS: x64, App: x64 2.15.10, CPU Logical Cores: 20, RAM: 31.68 GB
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.287700 ms (FindLiveObjects: 0.404400 ms CreateObjectMapping: 0.185700 ms MarkObjects: 3.676700 ms  DeleteObjects: 0.020400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.508100 ms (FindLiveObjects: 0.658700 ms CreateObjectMapping: 0.323900 ms MarkObjects: 3.516800 ms  DeleteObjects: 0.008000 ms)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames6.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames1.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.06s)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames4.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames6.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames1.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Resized image (RGB24): 4000x3000 -> 2048x1536 (0.08s)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames4.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames6.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames6.png)
+Uploading Crash Report
+Exception: HTTP/1.1 404 Not Found
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+CardCreator.UI.<>c__DisplayClass28_0:<ShowLoadingIndicator>b__2(Exception)
+RSG.<>c__DisplayClass37_0:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+CardCreator.Logic.<>c__DisplayClass15_0:<DownloadTexture>b__1(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass35_0`1:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.Promise`1:<.ctor>b__18_1(Exception)
+CardCreator.Utils.<GetTextureInternal>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename:  Line: -1)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames6.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames6.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.06s)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames1.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames1.png)
+Exception: HTTP/1.1 404 Not Found
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+CardCreator.UI.<>c__DisplayClass28_0:<ShowLoadingIndicator>b__2(Exception)
+RSG.<>c__DisplayClass37_0:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+CardCreator.Logic.<>c__DisplayClass15_0:<DownloadTexture>b__1(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass35_0`1:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.Promise`1:<.ctor>b__18_1(Exception)
+CardCreator.Utils.<GetTextureInternal>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename:  Line: -1)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames1.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames1.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.08s)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames3.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames3.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Framestest.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Framestest.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames4.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames4.png)
+Exception: HTTP/1.1 404 Not Found
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+CardCreator.UI.<>c__DisplayClass28_0:<ShowLoadingIndicator>b__2(Exception)
+RSG.<>c__DisplayClass37_0:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+CardCreator.Logic.<>c__DisplayClass15_0:<DownloadTexture>b__1(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass35_0`1:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.Promise`1:<.ctor>b__18_1(Exception)
+CardCreator.Utils.<GetTextureInternal>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename:  Line: -1)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames4.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames4.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames3.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames3.png)
+Exception: HTTP/1.1 404 Not Found
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+CardCreator.UI.<>c__DisplayClass28_0:<ShowLoadingIndicator>b__2(Exception)
+RSG.<>c__DisplayClass37_0:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+CardCreator.Logic.<>c__DisplayClass15_0:<DownloadTexture>b__1(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass35_0`1:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.Promise`1:<.ctor>b__18_1(Exception)
+CardCreator.Utils.<GetTextureInternal>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename:  Line: -1)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Frames3.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Frames3.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Framestest.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Framestest.png)
+Exception: HTTP/1.1 404 Not Found
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+CardCreator.UI.<>c__DisplayClass28_0:<ShowLoadingIndicator>b__2(Exception)
+RSG.<>c__DisplayClass37_0:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+CardCreator.Logic.<>c__DisplayClass15_0:<DownloadTexture>b__1(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass35_0`1:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.Promise`1:<.ctor>b__18_1(Exception)
+CardCreator.Utils.<GetTextureInternal>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename:  Line: -1)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png (C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia- Beta Template/assets/images/Base Frames/Framestest.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/Framestest.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.06s)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 20304.
+Total: 12.867300 ms (FindLiveObjects: 0.738900 ms CreateObjectMapping: 0.240100 ms MarkObjects: 11.807600 ms  DeleteObjects: 0.080200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 22601.
+Total: 16.872700 ms (FindLiveObjects: 0.770000 ms CreateObjectMapping: 0.223500 ms MarkObjects: 15.817400 ms  DeleteObjects: 0.061500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 24961.
+Total: 17.837600 ms (FindLiveObjects: 0.919100 ms CreateObjectMapping: 0.251100 ms MarkObjects: 16.586800 ms  DeleteObjects: 0.080100 ms)
+

@@ -1,0 +1,141 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.31f1 (bd5abf232a62)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24e0)
+    Vendor:   
+    VRAM:     8032 MB
+    Driver:   31.0.15.2754
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.063 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.641300 ms
+OS: x64, App: x64 2.15.10, CPU Logical Cores: 20, RAM: 31.68 GB
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.832800 ms (FindLiveObjects: 0.422000 ms CreateObjectMapping: 0.177600 ms MarkObjects: 4.214100 ms  DeleteObjects: 0.018200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.332700 ms (FindLiveObjects: 0.369600 ms CreateObjectMapping: 0.182700 ms MarkObjects: 3.770400 ms  DeleteObjects: 0.009100 ms)
+
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc
+No worksheets in the final Excel, export canceled
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 15548.
+Total: 9.356000 ms (FindLiveObjects: 0.596700 ms CreateObjectMapping: 0.268600 ms MarkObjects: 8.466100 ms  DeleteObjects: 0.024200 ms)
+
+Uploading Crash Report
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+  at UnityEngine.Component.GetComponent[T] () [0x00021] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at MaterialUI.MaterialInputField.get_inputField () [0x0000e] in <db09c6b2ccf14af9b18797891ebe4f55>:0 
+  at CardCreator.UI.URIInspectorField.set_Text (System.String value) [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.ImageCardInspectorFieldsController.RefreshFields (CardCreator.Models.IPanelContent content, CardCreator.Models.IPanelContentFormat formatContent) [0x0001a] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.CardContentInspectorController.RefreshSpecificFields () [0x0001c] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.CardContentInspectorController.OnPanelUpdateContent (CardCreator.Events.IEventData eventData) [0x00013] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Events.EventSystem.TriggerEvent (CardCreator.Events.IEventData eventData) [0x00022] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.CollectionManager.UpdatePanelContent[T] (System.Guid panelId, System.Action`1[T] contentUpdater) [0x00076] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.CommandCatalog+<>c__DisplayClass16_0`1[T].<UpdatePanelContent>b__2 () [0x00023] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.ClosureCommand.Undo () [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.HistoryManager.Undo () [0x00023] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.HistoryManager.UndoInternal () [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.InputManager.OnUpdate () [0x000bf] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at UnityEngine.Events.InvokableCall.Invoke () [0x00010] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00022] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at CardCreator.Logic.Manager+DummyMonoBehaviour.Update () [0x00008] in <a37db0127b1f487db713bf602a1a924b>:0 
+ 
+(Filename: <7ed9544a6e86489c87771c638baaad47> Line: 0)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 16122.
+Total: 13.116900 ms (FindLiveObjects: 0.661300 ms CreateObjectMapping: 0.267500 ms MarkObjects: 12.124100 ms  DeleteObjects: 0.063600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 16624.
+Total: 13.439500 ms (FindLiveObjects: 0.641900 ms CreateObjectMapping: 0.249700 ms MarkObjects: 12.504000 ms  DeleteObjects: 0.043300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 17041.
+Total: 16.369700 ms (FindLiveObjects: 0.702700 ms CreateObjectMapping: 0.296000 ms MarkObjects: 15.306100 ms  DeleteObjects: 0.064300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 16889.
+Total: 14.943100 ms (FindLiveObjects: 0.603500 ms CreateObjectMapping: 0.223300 ms MarkObjects: 14.069500 ms  DeleteObjects: 0.046300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 16884.
+Total: 15.264700 ms (FindLiveObjects: 0.634200 ms CreateObjectMapping: 0.243400 ms MarkObjects: 14.336200 ms  DeleteObjects: 0.050400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 17020.
+Total: 13.861400 ms (FindLiveObjects: 0.588100 ms CreateObjectMapping: 0.221900 ms MarkObjects: 12.998500 ms  DeleteObjects: 0.052400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 16883.
+Total: 13.732800 ms (FindLiveObjects: 0.592100 ms CreateObjectMapping: 0.215700 ms MarkObjects: 12.883400 ms  DeleteObjects: 0.041100 ms)
+
+Resized image (RGB24): 4000x3000 -> 2048x1536 (0.08s)
+Uploading Crash Report
+NullReferenceException: Object reference not set to an instance of an object
+  at CardCreator.UI.TooltipManager.Show (System.String text) [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.TooltipTrigger.OnPointerEnter (UnityEngine.EventSystems.PointerEventData eventData) [0x0000b] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerEnterHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00007] in <c28caf88f8504ba6ac4e180732aab53e>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00063] in <c28caf88f8504ba6ac4e180732aab53e>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.BaseInputModule:HandlePointerExitAndEnter(PointerEventData, GameObject)
+UnityEngine.EventSystems.PointerInputModule:ProcessMove(PointerEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename: <a37db0127b1f487db713bf602a1a924b> Line: 0)
+
+Uploading Crash Report
+NullReferenceException: Object reference not set to an instance of an object
+  at CardCreator.UI.TooltipManager.Hide () [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.TooltipTrigger.OnPointerExit (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerExitHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00007] in <c28caf88f8504ba6ac4e180732aab53e>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00063] in <c28caf88f8504ba6ac4e180732aab53e>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.BaseInputModule:HandlePointerExitAndEnter(PointerEventData, GameObject)
+UnityEngine.EventSystems.PointerInputModule:ProcessMove(PointerEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename: <a37db0127b1f487db713bf602a1a924b> Line: 0)
+

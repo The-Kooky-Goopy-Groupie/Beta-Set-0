@@ -1,0 +1,293 @@
+{
+  "version": 2.12,
+  "blueprint_id": "706f0dc6-7c26-4e2c-b854-0a359ef3725e",
+  "name": "Joker",
+  "layout_size": "63.5, 88.9",
+  "layout_grid_size": "0.232, 0.232",
+  "layout_grid_offset": "0, 0",
+  "layout_grid_square": false,
+  "layout_grid_centered": false,
+  "main_panel_id": "6848feb6-508d-4ad8-898c-b0f95d5f9494",
+  "front_layers": [
+    {
+      "layer_id": "d20a1a9b-cd97-4d8a-8625-de96a837529b",
+      "name": "Base",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "613fb01c-cae6-491f-bae7-a4900f3a90fc",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/Base Frames/Base.png",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "75e94233-e4bc-439d-b0a8-6b076096de2b",
+      "name": "Image",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "453feb2a-0df8-4c44-8252-cef97809fc98",
+          "name": "Image",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "1",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "6d65e9d5-1b21-49b7-9faa-05673c42015f",
+      "name": "Frame",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "1e76a160-b211-4793-b39c-1dc5ecd305ed",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/Base Frames/FrameJ.png",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "2",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "46c7a54d-afa0-487b-a174-356cebdfb3fa",
+      "name": "Title",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "06ac4835-73bf-46cb-9153-4263da4037b9",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, -3.744488E-08",
+          "anchor_max": "1, 0.3866667",
+          "anchor_max_render": "1, 0.3866667",
+          "type": "none",
+          "data": {},
+          "sort_mode": "3",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "6848feb6-508d-4ad8-898c-b0f95d5f9494",
+          "name": "Name",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.12, 0.12, 0.12, 0.12",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.3866667",
+          "anchor_min_render": "0, 0.3866667",
+          "anchor_max": "1, 0.4593939",
+          "anchor_max_render": "1, 0.4593939",
+          "type": "text",
+          "data": {
+            "font_family": "Rockboxcond12",
+            "font_preferred_size": 25,
+            "line_spacing": 2.0,
+            "text_anchor": "middlecenter",
+            "text": "This Is the Card's Name ",
+            "color": "#FFFFFFFF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "4",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "515d5611-e4c0-42fa-a604-c3f34996800d",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.4593939",
+          "anchor_min_render": "0, 0.4593939",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "none",
+          "data": {},
+          "sort_mode": "5",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "22e7f259-c5fd-4f93-991b-8a1004c58986",
+      "name": "Effect",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "c0139419-0d5f-4391-b5ad-bab54ce5a79b",
+          "name": "Effect Txt.",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.05, 0.05, 0.05, 0.05",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, -1.872244E-08",
+          "anchor_max": "1, 0.3684849",
+          "anchor_max_render": "1, 0.3684849",
+          "type": "text",
+          "data": {
+            "font_family": "BIOSfontII",
+            "font_preferred_size": 12,
+            "line_spacing": 1.2,
+            "text_anchor": "upperleft",
+            "text": "This is the default Joker Card text. A Joker Card applys effects throughout the entire match and as such are useful for customizing a deck. They also look very cool and are rare types of cards to get in packs!",
+            "color": "#FFFFFFFF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "6",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "8cb1e8c8-5b03-49ab-821a-ae26c3e54daa",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.3684849",
+          "anchor_min_render": "0, 0.3684849",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "none",
+          "data": {},
+          "sort_mode": "7",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "629e3f65-ecd7-43eb-afc0-8a60addfe3ca",
+      "name": "Back",
+      "padding": 0.0,
+      "spacing": 0.0314960629,
+      "panels": [
+        {
+          "panel_id": "dd1eb55a-d2ea-4f47-bd6b-ec0af84c33fb",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/Base Frames/Image_Base_Fill5.png",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "8",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

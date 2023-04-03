@@ -1,0 +1,24 @@
+{
+  "version": 2.12,
+  "cardset_id": "7e574d70-75a4-4b6c-87e2-ddffe8c9205e",
+  "name": "UNNAMED",
+  "blueprint_id": "706f0dc6-7c26-4e2c-b854-0a359ef3725e",
+  "hint_order_index": 1,
+  "cards": [
+    {
+      "card_id": "0872476a-c64b-4c0a-9010-f97306975b39",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "75e94233-e4bc-439d-b0a8-6b076096de2b",
+          "panels": [
+            {
+              "blueprint_panel_id": "453feb2a-0df8-4c44-8252-cef97809fc98",
+              "rotation": 270
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.31f1 (bd5abf232a62)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24e0)
+    Vendor:   
+    VRAM:     8032 MB
+    Driver:   31.0.15.2754
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.054 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.956700 ms
+OS: x64, App: x64 2.15.10, CPU Logical Cores: 20, RAM: 31.68 GB
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.649400 ms (FindLiveObjects: 0.419600 ms CreateObjectMapping: 0.248400 ms MarkObjects: 3.963100 ms  DeleteObjects: 0.017800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.355500 ms (FindLiveObjects: 0.417100 ms CreateObjectMapping: 0.181400 ms MarkObjects: 3.747600 ms  DeleteObjects: 0.008900 ms)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.08s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.07s)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Temp/download.jpg (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/images/Temp/download.jpg)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Temp/download.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Temp/download.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Temp/download.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Temp/download.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/images/Artworks/Test.jpg)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/images/Artworks/Test.jpg)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg (C:/Docs/1)Cartamanzia!/Cartamanzia-Beta/assets/images/Artworks/Test.jpg)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Artworks/Test.jpg
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Mono/libc
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 16603.
+Total: 10.448000 ms (FindLiveObjects: 0.508800 ms CreateObjectMapping: 0.336600 ms MarkObjects: 9.563300 ms  DeleteObjects: 0.039000 ms)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.08s)
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.08s)

@@ -1,0 +1,200 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.31f1 (bd5abf232a62)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24e0)
+    Vendor:   
+    VRAM:     8032 MB
+    Driver:   31.0.15.2754
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.057 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.696300 ms
+OS: x64, App: x64 2.15.10, CPU Logical Cores: 20, RAM: 31.68 GB
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.378800 ms (FindLiveObjects: 0.408800 ms CreateObjectMapping: 0.177800 ms MarkObjects: 3.772400 ms  DeleteObjects: 0.019000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 3.976300 ms (FindLiveObjects: 0.368400 ms CreateObjectMapping: 0.147700 ms MarkObjects: 3.452200 ms  DeleteObjects: 0.007800 ms)
+
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Clear
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Error: Font family not found: Power Red and Green
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.04s)
+Resized image (RGB24): 4032x3024 -> 2048x1536 (0.10s)
+Resized image (RGB24): 3055x4096 -> 1527x2048 (0.07s)
+Trying to remove Handle (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to remove Divider - Dark (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Resized image (ARGB32): 1500x2100 -> 1462x2048 (0.05s)
+Uploading Crash Report
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+  at UnityEngine.Component.GetComponent[T] () [0x00021] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at MaterialUI.MaterialInputField.get_inputField () [0x0000e] in <db09c6b2ccf14af9b18797891ebe4f55>:0 
+  at CardCreator.UI.URIInspectorField.set_Text (System.String value) [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.ImageCardInspectorFieldsController.RefreshFields (CardCreator.Models.IPanelContent content, CardCreator.Models.IPanelContentFormat formatContent) [0x0001a] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.CardContentInspectorController.RefreshSpecificFields () [0x0001c] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.CardContentInspectorController.OnPanelUpdateContent (CardCreator.Events.IEventData eventData) [0x00013] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Events.EventSystem.TriggerEvent (CardCreator.Events.IEventData eventData) [0x00022] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.CollectionManager.UpdatePanelContent[T] (System.Guid panelId, System.Action`1[T] contentUpdater) [0x00076] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.CommandCatalog+<>c__DisplayClass16_0`1[T].<UpdatePanelContent>b__1 () [0x00023] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.ClosureCommand.Execute () [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.HistoryManager.EnqueueAction (CardCreator.Logic.ICommand command, System.Boolean forceEnqueue) [0x00067] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.ImagePanelContentController+<>c__DisplayClass17_0.<InitializeSpecificFields>b__1 (UnityEngine.Vector2 offset) [0x0006f] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) [0x00010] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) [0x00025] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at CardCreator.Helpers.ImageController.OnEndDrag (UnityEngine.EventSystems.PointerEventData eventData) [0x0006a] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IEndDragHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00007] in <c28caf88f8504ba6ac4e180732aab53e>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00063] in <c28caf88f8504ba6ac4e180732aab53e>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename: <7ed9544a6e86489c87771c638baaad47> Line: 0)
+
+Uploading Crash Report
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+  at UnityEngine.Component.GetComponent[T] () [0x00021] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at MaterialUI.MaterialInputField.get_inputField () [0x0000e] in <db09c6b2ccf14af9b18797891ebe4f55>:0 
+  at CardCreator.UI.URIInspectorField.set_Text (System.String value) [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.ImageCardInspectorFieldsController.RefreshFields (CardCreator.Models.IPanelContent content, CardCreator.Models.IPanelContentFormat formatContent) [0x0001a] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.CardContentInspectorController.RefreshSpecificFields () [0x0001c] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.CardContentInspectorController.OnPanelUpdateContent (CardCreator.Events.IEventData eventData) [0x00013] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Events.EventSystem.TriggerEvent (CardCreator.Events.IEventData eventData) [0x00022] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.CollectionManager.UpdatePanelContent[T] (System.Guid panelId, System.Action`1[T] contentUpdater) [0x00076] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.CommandCatalog+<>c__DisplayClass16_0`1[T].<UpdatePanelContent>b__2 () [0x00023] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.ClosureCommand.Undo () [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.HistoryManager.Undo () [0x00023] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.HistoryManager.UndoInternal () [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.InputManager.OnUpdate () [0x000bf] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at UnityEngine.Events.InvokableCall.Invoke () [0x00010] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00022] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at CardCreator.Logic.Manager+DummyMonoBehaviour.Update () [0x00008] in <a37db0127b1f487db713bf602a1a924b>:0 
+ 
+(Filename: <7ed9544a6e86489c87771c638baaad47> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+  at UnityEngine.Component.GetComponent[T] () [0x00021] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at MaterialUI.MaterialInputField.get_inputField () [0x0000e] in <db09c6b2ccf14af9b18797891ebe4f55>:0 
+  at CardCreator.UI.URIInspectorField.set_Text (System.String value) [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.ImageCardInspectorFieldsController.RefreshFields (CardCreator.Models.IPanelContent content, CardCreator.Models.IPanelContentFormat formatContent) [0x0001a] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.CardContentInspectorController.RefreshSpecificFields () [0x0001c] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.CardContentInspectorController.OnPanelUpdateContent (CardCreator.Events.IEventData eventData) [0x00013] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Events.EventSystem.TriggerEvent (CardCreator.Events.IEventData eventData) [0x00022] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.CollectionManager.UpdatePanelContent[T] (System.Guid panelId, System.Action`1[T] contentUpdater) [0x00076] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.CommandCatalog+<>c__DisplayClass16_0`1[T].<UpdatePanelContent>b__1 () [0x00023] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.ClosureCommand.Execute () [0x00000] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.Logic.HistoryManager.EnqueueAction (CardCreator.Logic.ICommand command, System.Boolean forceEnqueue) [0x00067] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at CardCreator.UI.ImagePanelContentController+<>c__DisplayClass17_0.<InitializeSpecificFields>b__1 (UnityEngine.Vector2 offset) [0x0006f] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) [0x00010] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) [0x00025] in <7ed9544a6e86489c87771c638baaad47>:0 
+  at CardCreator.Helpers.ImageController.OnEndDrag (UnityEngine.EventSystems.PointerEventData eventData) [0x0006a] in <a37db0127b1f487db713bf602a1a924b>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IEndDragHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00007] in <c28caf88f8504ba6ac4e180732aab53e>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00063] in <c28caf88f8504ba6ac4e180732aab53e>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename: <7ed9544a6e86489c87771c638baaad47> Line: 0)
+
+Copy image: C:/Users/dylan/Desktop/New Frames Updated6.png -> C:/Computers Documents Folder/1) Cartamanzia Project!/Cartamanzia-Template-File/assets/images/New Frames Updated6.png
