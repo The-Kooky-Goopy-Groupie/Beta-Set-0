@@ -7,7 +7,23 @@
   "cards": [
     {
       "card_id": "7899e421-426d-42f5-8ff0-bd268fcd176a",
-      "amount": 1
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "007cba4c-a055-4e34-aaf7-46f3e6f2e220",
+          "panels": [
+            {
+              "blueprint_panel_id": "47290cdb-8665-40d0-9c95-49c1cac8afc6",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Temps/rn_image_picker_lib_temp_eb4ea7f0-4b96-4dff-8abd-81eeaf4a115e.jpg",
+                "offset": "-0.0779364, 0.04149287"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
