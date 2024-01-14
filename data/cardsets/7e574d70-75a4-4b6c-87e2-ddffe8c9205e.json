@@ -1,7 +1,7 @@
 {
   "version": 2.12,
   "cardset_id": "7e574d70-75a4-4b6c-87e2-ddffe8c9205e",
-  "name": "UNNAMED",
+  "name": "Joker",
   "blueprint_id": "706f0dc6-7c26-4e2c-b854-0a359ef3725e",
   "hint_order_index": 1,
   "cards": [
@@ -14,7 +14,39 @@
           "panels": [
             {
               "blueprint_panel_id": "453feb2a-0df8-4c44-8252-cef97809fc98",
-              "rotation": 270
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/1dc0826b26bf60ed6e27179f17a89329.jpg",
+                "fit_mode": "fitheight",
+                "offset": "0.02791069, -3.485758E-09"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "46c7a54d-afa0-487b-a174-356cebdfb3fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "6848feb6-508d-4ad8-898c-b0f95d5f9494",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "A Guardian Angel"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "22e7f259-c5fd-4f93-991b-8a1004c58986",
+          "panels": [
+            {
+              "blueprint_panel_id": "c0139419-0d5f-4391-b5ad-bab54ce5a79b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Every <b>Heart Card [<color=#E02D20FF>♥</color>]</b> has +1 to there <b>DEFENSE</b> stat.\n\nThe first time your <b>Leader Card</b> would be destroyed, instead flip this card face down, and set your <b>Team Spirit </b>to 1, and set it to your <b>Draw Phase.</b>"
+              }
             }
           ]
         }

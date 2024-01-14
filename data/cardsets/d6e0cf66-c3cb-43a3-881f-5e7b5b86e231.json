@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "d6e0cf66-c3cb-43a3-881f-5e7b5b86e231",
+  "name": "Diamond_S",
+  "blueprint_id": "14aecd2f-106a-4c4c-a382-4b099d00bd1f",
+  "hint_order_index": 16,
+  "cards": [
+    {
+      "card_id": "7a71e2dc-b039-4efe-ba73-31f87c4d1833",
+      "amount": 1
+    }
+  ]
+}

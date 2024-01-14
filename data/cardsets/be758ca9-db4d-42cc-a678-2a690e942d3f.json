@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "be758ca9-db4d-42cc-a678-2a690e942d3f",
+  "name": "Spade_D",
+  "blueprint_id": "731f6abc-b002-48aa-b3e4-061aaeda33b8",
+  "hint_order_index": 6,
+  "cards": [
+    {
+      "card_id": "e2e4d3a4-a600-4967-b911-8f45d1390d35",
+      "amount": 1
+    }
+  ]
+}

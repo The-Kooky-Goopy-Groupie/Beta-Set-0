@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "e5c3f92b-de24-4f9e-b5b8-6b223a013df3",
+  "name": "Heart_M",
+  "blueprint_id": "c5053685-3e5e-48c8-b3e8-a0e8cf7a2843",
+  "hint_order_index": 4,
+  "cards": [
+    {
+      "card_id": "7aee9546-7a45-46f3-b120-23821352d82b",
+      "amount": 1
+    }
+  ]
+}

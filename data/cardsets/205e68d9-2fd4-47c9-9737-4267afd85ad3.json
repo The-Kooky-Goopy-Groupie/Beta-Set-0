@@ -1,0 +1,85 @@
+{
+  "version": 2.12,
+  "cardset_id": "205e68d9-2fd4-47c9-9737-4267afd85ad3",
+  "name": "Heart_A",
+  "blueprint_id": "a92c52cb-656b-4a79-8f90-d0bcdefa3575",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "1f76b626-72c2-4772-a710-79540397282c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "dee5fded-3c50-459a-8dd2-294fb45bea6b",
+          "panels": [
+            {
+              "blueprint_panel_id": "04deaead-99a4-45f0-b43d-dfba5ab77855",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/20230923_223404.jpg",
+                "fit_mode": "fitheight",
+                "zoom": 1.0,
+                "offset": "0.04577354, 0.007177036"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "01b1380a-7ff1-4d18-8efb-53e9bd53eb29",
+          "panels": [
+            {
+              "blueprint_panel_id": "98dfbb94-e0d7-4443-aa72-cb3bd4e23961",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "15"
+              }
+            },
+            {
+              "blueprint_panel_id": "675eae38-7f77-4d61-b55c-b2597bf34e2d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "bef03899-9f77-46c0-b854-45c1c87875d1",
+          "panels": [
+            {
+              "blueprint_panel_id": "65053ea6-121e-41ea-92c2-55e789f3c902",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Double Barrel</b> - This card can attack 2 times in a row, selecting another card in the same space it in for the 2nd attack. "
+              }
+            },
+            {
+              "blueprint_panel_id": "607c40d1-ebe8-4ebf-8566-e8b89de715f4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"The last thing they see will be golden.\""
+              }
+            },
+            {
+              "blueprint_panel_id": "f7a004a9-b5cd-4342-b8e8-5c28241a29d2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Golden Gatling"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0369c7a4-c2d0-4567-86a9-096f4d8f5840",
+      "amount": 1
+    }
+  ]
+}

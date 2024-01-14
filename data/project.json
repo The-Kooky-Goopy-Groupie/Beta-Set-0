@@ -1,11 +1,11 @@
 {
   "version": 2.12,
   "project_id": "e31cc90f-07d7-45c1-900a-da796beb847e",
-  "name": "Cartamanzia Base",
+  "name": "Cartamanzia",
   "creation_app_version": "2.15.10",
   "creation_date": "20220928_164623",
   "creation_date_unix": 1664383583.0,
   "last_modification_app_version": "2.15.10",
-  "last_modification_date": "20230403_234941",
-  "last_modification_date_unix": 1680565781.0
+  "last_modification_date": "20240114_021400",
+  "last_modification_date_unix": 1705198440.0
 }

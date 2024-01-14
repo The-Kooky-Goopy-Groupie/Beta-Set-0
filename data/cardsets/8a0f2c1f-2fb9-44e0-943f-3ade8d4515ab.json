@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "8a0f2c1f-2fb9-44e0-943f-3ade8d4515ab",
+  "name": "Club_S",
+  "blueprint_id": "c3204b5a-1ef6-455a-9601-e93c502b91ba",
+  "hint_order_index": 11,
+  "cards": [
+    {
+      "card_id": "77d46122-d403-44fc-a6f6-d1727de13bca",
+      "amount": 1
+    }
+  ]
+}
