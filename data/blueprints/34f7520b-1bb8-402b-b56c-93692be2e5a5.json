@@ -136,7 +136,7 @@
           "anchor_max_render": "1, 1",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/Base_Pixel_Cards_1_5th_size.png",
+            "uri": "%PROJECT%/Attack_Grids/G_.png",
             "mask_uri": "",
             "fit_mode": "fit",
             "zoom": 1.0,

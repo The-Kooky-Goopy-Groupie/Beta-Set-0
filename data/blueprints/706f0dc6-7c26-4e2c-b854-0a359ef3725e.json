@@ -101,7 +101,7 @@
           "anchor_max_render": "1, 1",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/Base Frames/FrameJ.png",
+            "uri": "%PROJECT%/Base Frames/Joker.png",
             "mask_uri": "",
             "fit_mode": "fit",
             "zoom": 1.0,
@@ -276,11 +276,11 @@
           "anchor_max_render": "1, 1",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/Base Frames/Image_Base_Fill5.png",
+            "uri": "%PROJECT%/Base Frames/Back.png",
             "mask_uri": "",
             "fit_mode": "fit",
             "zoom": 1.0,
-            "offset": "0, 0",
+            "offset": "-0.007253886, 0.003454231",
             "tint": "#FFFFFFFF"
           },
           "sort_mode": "8",

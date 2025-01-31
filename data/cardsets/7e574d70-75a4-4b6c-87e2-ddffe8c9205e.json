@@ -17,9 +17,9 @@
               "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/1dc0826b26bf60ed6e27179f17a89329.jpg",
+                "uri": "%PROJECT%/Temp Images/1dc0826b26bf60ed6e27179f17a89329.jpg",
                 "fit_mode": "fitheight",
-                "offset": "0.02791069, -3.485758E-09"
+                "offset": "0.01451356, 0.03588518"
               }
             }
           ]

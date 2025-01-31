@@ -1,0 +1,132 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Card Creator/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.31f1 (bd5abf232a62)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Card Creator/CardCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24e0)
+    Vendor:   
+    VRAM:     8032 MB
+    Driver:   31.0.15.3209
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.107 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.234900 ms
+OS: x64, App: x64 2.15.10, CPU Logical Cores: 20, RAM: 31.68 GB
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 4.787300 ms (FindLiveObjects: 0.434500 ms CreateObjectMapping: 0.191500 ms MarkObjects: 4.136700 ms  DeleteObjects: 0.023800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11248.
+Total: 6.078400 ms (FindLiveObjects: 1.170200 ms CreateObjectMapping: 0.227200 ms MarkObjects: 4.666400 ms  DeleteObjects: 0.012900 ms)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base Frames/FrameJ.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base_Pixel_Cards_1_5th_size.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base_Pixel_Cards_1_5th_size.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base_Pixel_Cards_1_5th_size.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/1dc0826b26bf60ed6e27179f17a89329.jpg (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/1dc0826b26bf60ed6e27179f17a89329.jpg)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/1dc0826b26bf60ed6e27179f17a89329.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/1dc0826b26bf60ed6e27179f17a89329.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/1dc0826b26bf60ed6e27179f17a89329.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/1dc0826b26bf60ed6e27179f17a89329.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base Frames/FrameJ.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/20230923_223404.jpg (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/20230923_223404.jpg)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/20230923_223404.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/20230923_223404.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/20230923_223404.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/20230923_223404.jpg
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base_Pixel_Cards_1_5th_size.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base_Pixel_Cards_1_5th_size.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base_Pixel_Cards_1_5th_size.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base_Pixel_Cards_1_5th_size.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base Frames/FrameJ.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base Frames/FrameJ.png)
+Uploading Crash Report
+Exception: HTTP/1.1 404 Not Found
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+CardCreator.UI.<>c__DisplayClass28_0:<ShowLoadingIndicator>b__2(Exception)
+RSG.<>c__DisplayClass37_0:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+CardCreator.Logic.<>c__DisplayClass15_0:<DownloadTexture>b__1(Exception)
+RSG.<>c__DisplayClass31_0:<Catch>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.<>c__DisplayClass35_0`1:<Then>b__1(Exception)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, Exception)
+RSG.<>c__DisplayClass23_0:<InvokeRejectHandlers>b__0(RejectHandler)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise`1:InvokeRejectHandlers(Exception)
+RSG.Promise`1:Reject(Exception)
+RSG.Promise`1:<.ctor>b__18_1(Exception)
+CardCreator.Utils.<GetTextureInternal>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename:  Line: -1)
+
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png (C:/Docs/1)Cartamanzia!/Card Game Items/Baseline_Card_Creator/assets/images/Base Frames/FrameJ.png)
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+Error: HTTP/1.1 404 Not Found -> %PROJECT%/Base Frames/FrameJ.png
+HTTP/1.1 404 Not Found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
